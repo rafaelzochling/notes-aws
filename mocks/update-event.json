@@ -1,0 +1,12 @@
+{
+    "body": "{\"content\":\"Super Mocked Content Update.\",\"attachment\":\"new.jpg\"}",
+    "pathParameters": {
+      "id": "c6786240-c130-11e9-b50d-5f7d1ca646dc"
+    },
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+  }
+  

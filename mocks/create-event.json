@@ -1,0 +1,8 @@
+{
+  "body": "{\"content\":\"This is a Mocked Test Note\",\"attachment\":\"Mock-Image.jpg\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
